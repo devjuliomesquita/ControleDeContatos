@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 
-Esta aplicação full stack web, sistema de Login e Cadastro, foi desenvolvida por conta de um desafio desenvolvido pela empresa "" Onde foi solicitado um sistema de Login e registros de cadastros.
+Esta aplicação full stack web, sistema de Login e Cadastro, foi desenvolvida por conta de um desafio desenvolvido pela empresa "EveryMind" Onde foi solicitado um sistema de Login e registros de cadastros.
 
 A aplicação consiste em dois CRUD-(Create, Read, Update and Delete) uma para o cadastro de usuários e outro de contatos. Nela exploramos a construção de telas como login, cadastro, edição, exclusão, redefinição de senhas e ações como alertas por email ao usuário via protocolos SMTP. O modelo e liguagem utilizada foi o ASP .NET CORE MVC-(Model, View and Controller).
 
