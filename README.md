@@ -14,7 +14,7 @@ A aplicação consiste em dois CRUD-(Create, Read, Update and Delete) uma para o
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png) 
 
 ### Layout - Login/Esqueceu a senha
-![Login](https://github.com/acenelio/assets/raw/main/sds1/web1.png) ![Esqueceu Senha](https://github.com/acenelio/assets/raw/main/sds1/web1.png) 
+![Login](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Altear%20Senha.png) ![Esqueceu Senha](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Altear%20Senha.png) 
 
 ### Layout - Tela de Usuários
 - Está tela só poderá ser vista apenas por usuários do tipo administrador.
