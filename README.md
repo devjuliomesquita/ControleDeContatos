@@ -17,22 +17,22 @@ A aplicação consiste em dois CRUD-(Create, Read, Update and Delete) uma para o
 
 ### Layout - Tela de Usuários
 - Está tela só poderá ser vista apenas por usuários do tipo administrador.
-- Ao cadastar qualquer usuário será enviado uma email de confirmação.
+- Ao cadastrar qualquer usuário será enviado uma email de confirmação.
 
 ![Usu](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20PG%20Usuarios%20ADM.png) ![Usu Cadastrar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20PG%20Usuarios%20Cadastro%20ADM.png) 
 ![Usu Editar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20PG%20Usuarios%20Editar%20ADM.png) ![Usu Apagar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20PG%20Usuarios%20Apagar%20ADM.png) 
 
 ### Layout - Tela de Contatos
-- Está tela só poderá ser visto por qualquer usuário.
+- Está tela poderá ser visto por qualquer usuário.
 
 ![Cont](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Contatos%20lista%20Filtro.png) ![Cont Cadastrar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Contatos%20Criar.png) 
 ![Cont Editar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Contatos%20Editar.png) ![Cont Apagar](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Contatos%20Apagar.png) 
 
 ### Layout - Tela de Alterar Senha
-- Está tela só poderá ser visto por qualquer usuário e segue os seguintes parâmetros:
-- Deve conter a senha atual correta;
-- A nova senha deve ser diferente da senha anterior;
-- O campo nova senha e confirmação de senha deve conter a mesma senha.
+- Está tela poderá ser visto por qualquer usuário e segue os seguintes parâmetros:
+    - Deve conter a senha atual correta;
+    - A nova senha deve ser diferente da senha anterior;
+    - O campo nova senha e confirmação de senha deve conter a mesma senha.
 
 ![Redefinir Senha](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/ControleDeContatos/Acetss/OT%20-%20Altear%20Senha.png) 
 
