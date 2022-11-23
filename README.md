@@ -1,5 +1,5 @@
 # SISTEMA DE LOGIN E CADASTRO
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devjuliomesquita/ControleDeContatos/blob/master/LICENSE.txt) 
 
 # Sobre o projeto
 
@@ -55,7 +55,7 @@ Pré-requisitos: .NET 6
 
 ```bash
 # clonar repositório
-
+https://github.com/devjuliomesquita/ControleDeContatos.git
 # entrar na pasta do projeto back end
 cd ControleDeCOntatos
 # executar o projeto
@@ -68,7 +68,7 @@ Pré-requisitos: SQL SERVER
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+https://github.com/devjuliomesquita/ControleDeContatos.git
 # entrar no arquivo appsttingns.json e reconfigurar a ConectionStrins e SMTP para sua realidade
 "ConnectionStrings": {
     "DataBase": "Data Source=./;Initial Catalog=Db_CadastroContatos;Persist Security Info=True;User ID=sa;Password=********"
